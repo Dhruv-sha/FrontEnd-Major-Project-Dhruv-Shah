@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "image": "https://images.pexels.com/photos/27359351/pexels-photo-27359351/free-photo-of-woman-hand-holding-slice-of-pide.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "Cheese margarita",
+      "crust": "Soft",
+      "description": "Bust of cheese in every bite",
+      "price": 4,
+      "id": "1"
+    },
+    {
+      "image": "https://images.pexels.com/photos/9957549/pexels-photo-9957549.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "name": "chilly pepper",
+      "price": 6,
+      "crust": "Crispy",
+      "description": "It's sipcy!!! Really...",
+      "id": "2"
+    }
+  ]
+}
